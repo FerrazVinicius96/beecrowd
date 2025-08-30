@@ -1,15 +1,16 @@
-# Beecrowd Solutions in Python 🚀
+# Beecrowd Solutions in C 🚀
 
-Este diretório contém soluções para problemas do Beecrowd implementadas em **Python**.  
-This directory contains solutions for Beecrowd problems implemented in **Python**.
+Este diretório contém soluções para problemas do Beecrowd implementadas em **C**.  
+This directory contains solutions for Beecrowd problems implemented in **C**.
 
 ---
 
-## ⚙️ Como executar | How to run
+## ⚙️ Como compilar e executar | How to compile and run
 
 ```bash
 # Exemplo | Example: exercício 1001
-python3 1001.py
+gcc 1001.c -o 1001
+./1001
 ```
 
 ---
@@ -21,3 +22,5 @@ python3 1001.py
 
 - Algumas soluções podem ter mais de uma abordagem.
 - Some solutions may include multiple approaches.
+
+---
